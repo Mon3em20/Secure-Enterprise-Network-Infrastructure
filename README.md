@@ -1,5 +1,8 @@
 # Enterprise Network Security Architecture
 
+> **Note:** the primary, maintained version of this project is [`enterprise-network-security-lab`](https://github.com/Mon3em20/enterprise-network-security-lab), which contains this report plus the Milestone 1 report. This repository is kept for reference and may be archived.
+
+
 Secure multi-branch enterprise network deployment implementing layered security controls, centralized authentication, encrypted site-to-site communication, and infrastructure hardening using Cisco technologies.
 
 ---
@@ -164,10 +167,12 @@ Instructor: Dr. Marwa Zamzam
 
 ---
 
-## Repository Structure
+## Repository Contents
 
-```bash
-/screenshots
-/configurations
-/topology
-/report
+```text
+Secure-Enterprise-Network-Infrastructure/
+├── README.md
+└── Enterprise_Network_Security_Architecture_Report.pdf.pdf   (Milestone 2 report)
+```
+
+Screenshots, configuration files and topology files are not included in this repository.
